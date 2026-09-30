@@ -1,6 +1,6 @@
 # TeacherHub
 
-TeacherHub is a teacher-focused digital classroom hub designed to support modern education through a Microsoft Teams-like platform. The project combines communication, video collaboration, attendance automation, and AI-powered student wellbeing support in one system.
+Teacher Hub is a teacher-focused platform that brings three useful features together in one application, helping teachers manage attendance, communicate with students, and get support with student wellbeing.
 
 ## Project Introduction
 
