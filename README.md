@@ -9,7 +9,7 @@ This project brings together several modules:
 - Team collaboration dashboard inspired by Microsoft Teams
 - Face detection and recognition attendance system
 - Student/class management flow
-- Mental health and wellbeing support resources
+- AI agent mental health support for students and staff
 - Teacher and admin reporting tools
 
 The goal is to make digital learning easier, more organized, and more engaging for both teachers and students.
@@ -28,9 +28,10 @@ The goal is to make digital learning easier, more organized, and more engaging f
 - Attendance status updates
 - CSV export and absence email reporting
 
-### Mental Health Support
-- Wellness-focused pages and support resources
+### AI Mental Health Agent
+- AI-assisted wellbeing guidance and support prompts
 - Student-friendly educational interface
+- Focused support for emotional and academic wellbeing
 
 ## Project Structure
 
