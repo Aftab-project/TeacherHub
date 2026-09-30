@@ -1,37 +1,36 @@
 # TeacherHub
 
-TeacherHub is an education-focused project that combines collaboration, attendance, student management, and wellness tools in one platform. It is designed for modern classrooms and academic teams that need a simple digital workspace for communication, scheduling, tasks, and monitoring participation.
+TeacherHub is a teacher-focused digital classroom hub designed to support modern education through a Microsoft Teams-like platform. The project combines communication, video collaboration, attendance automation, and AI-powered student wellbeing support in one system.
 
 ## Project Introduction
 
-This project brings together several modules:
+This project is built around three core functions:
 
-- Team collaboration dashboard inspired by Microsoft Teams
-- Face detection and recognition attendance system
-- Student/class management flow
-- AI agent mental health support for students and staff
-- Teacher and admin reporting tools
+1. A teacher collaboration hub similar to Microsoft Teams for messaging, video calls, and meeting transcription.
+2. A face recognition attendance system that automatically marks students present when they are detected.
+3. An AI agent that helps teachers recognize potential student mental health concerns and suggests supportive actions.
 
-The goal is to make digital learning easier, more organized, and more engaging for both teachers and students.
+Together, these features create a complete ecosystem for digital classroom management, communication, and student support.
 
 ## Features
 
-### Team Collaboration
+### Teacher Collaboration Hub
 - Secure login and registration
-- Team-based dashboards and channels
-- Task management and file sharing
-- Direct messaging and notifications
+- Teams-style messaging and channels
+- Video call support and meeting collaboration
+- Meeting transcription and classroom communication tools
+- File sharing, tasks, and notifications
 
-### Attendance System
+### Face Recognition Attendance
 - Webcam-based face recognition
+- Automatic present/absent marking
 - Class and student tracking
-- Attendance status updates
-- CSV export and absence email reporting
+- Attendance status updates and reporting
 
-### AI Mental Health Agent
-- AI-assisted wellbeing guidance and support prompts
-- Student-friendly educational interface
-- Focused support for emotional and academic wellbeing
+### AI Mental Health Support Agent
+- AI-assisted identification of possible student wellbeing concerns
+- Guidance for teachers on how to support students
+- Early intervention support for academic and emotional wellbeing
 
 ## Project Structure
 
